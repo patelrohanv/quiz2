@@ -1,0 +1,23 @@
+  body {
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+      background-color: darkslategrey;
+  }
+  
+  main {
+      flex: 1 0 auto;
+      background-color: dimgrey;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      align-content: center;
+      text-align: center;
+      font-size: 20px;
+  }
+  
+  header {
+      background-color: darkcyan;
+  }
+  
+  footer {
+      background-color: darkcyan;
+  }
